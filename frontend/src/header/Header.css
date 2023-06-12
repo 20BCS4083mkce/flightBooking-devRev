@@ -1,0 +1,16 @@
+.head_title {
+    margin-left: 20px;
+    color: rgb(203, 202, 202);
+}
+
+.head_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.head_profile {
+    display: block;
+    margin-right: 20px;
+}
